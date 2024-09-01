@@ -13,7 +13,7 @@ timezone: ''
 theme: stellar
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://goofish-shop.github.io/stellar-hexo
+url: https://goofish-shop.github.io/stellar-hexo/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -27,7 +27,7 @@ tag_dir: tags
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
-i18n_dir: :lang
+# i18n_dir: :lang
 skip_render:
 
 # Writing
